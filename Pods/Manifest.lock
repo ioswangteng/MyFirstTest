@@ -1,0 +1,21 @@
+PODS:
+  - romensUISdk (0.0.2)
+
+DEPENDENCIES:
+  - romensUISdk (from `https://gitee.com/limeidong/romensUISdk.git`)
+
+EXTERNAL SOURCES:
+  romensUISdk:
+    :git: https://gitee.com/limeidong/romensUISdk.git
+
+CHECKOUT OPTIONS:
+  romensUISdk:
+    :commit: 177b4d44b54fe391eb3be46f5c308502c0544caf
+    :git: https://gitee.com/limeidong/romensUISdk.git
+
+SPEC CHECKSUMS:
+  romensUISdk: ffb38d48599cb589aa0012b9b4f9bf3c19df7624
+
+PODFILE CHECKSUM: dcb8dcf281d7126eeaa189a02b2456f06337de02
+
+COCOAPODS: 1.4.0.beta.2

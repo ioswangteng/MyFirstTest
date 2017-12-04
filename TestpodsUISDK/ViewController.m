@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+#import <romensUISdk/Animal.h>
 @interface ViewController ()
 
 @end
@@ -17,6 +17,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    Animal * aa=[[Animal alloc]init];
+    [aa eat:@"Good foods"];
+    NSLog(@"%@",aa);
+    
 }
 
 

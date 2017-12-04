@@ -1,0 +1,25 @@
+{
+  "name": "romensUISdk",
+  "version": "0.0.2",
+  "summary": "romensUISdk",
+  "description": "这只是一个测试版本，没有任何商用价值",
+  "homepage": "https://gitee.com/limeidong/romensUISdk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LMD": "limeidong930220@sina.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://gitee.com/limeidong/romensUISdk.git",
+    "tag": "0.0.2"
+  },
+  "source_files": "lmd/*.{h,m}",
+  "public_header_files": "lmd/*.h",
+  "frameworks": "Foundation",
+  "requires_arc": true
+}
